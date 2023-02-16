@@ -13,14 +13,14 @@
 ## Notebooks
 
 ## [Housing Price Prediction](https://github.com/tylerchi1000/Housing-Price-Prediction)
-
+ * Investigation of correlation of house sale price with various attributes. Initial RandomForest model was improved through blending, and increased data preparation.
 ## [Custom Object Detection](https://github.com/tylerchi1000/StreamlitObjectDetection)
- > Custom made bounding box object detection model for raspberries based on images I labeled. Includes plotting of boxes on a streamlit webpage, with the ability to download a csv file of the predicted boxes and their confidence.
-## [Retail Segmentation Analysis]
- > This project is focused on segmenting customers based on their purchase history and behavior using data analysis techniques. The goal is to identify different groups of customers with similar characteristics and behaviors to better target marketing efforts and improve overall business performance.
+ * Custom made bounding box object detection model for raspberries based on images I labeled. Includes plotting of boxes on a streamlit webpage, with the ability to download a csv file of the predicted boxes and their confidence.
+## [Retail Segmentation Analysis](https://github.com/tylerchi1000/Customer-Segmentation-Online-Retail-UC-Irvine-Repo-)
+ * This project is focused on segmenting customers based on their purchase history and behavior using data analysis techniques. The goal is to identify different groups of customers with similar characteristics and behaviors to better target marketing efforts and improve overall business performance.
 
-## Customer Transaction Classification(https://github.com/tylerchi1000/Satander-Customer-Transaction)
- > Predicts if a customer will make a purchase within the given time interval or not. Includes exploritory data analysis of customers. 
-## Tableau Public
-
+## [Customer Transaction Classification](https://github.com/tylerchi1000/Satander-Customer-Transaction)
+ * Predicts if a customer will make a purchase within the given time interval or not. Includes exploritory data analysis of customers. 
+## [Tableau Public](https://public.tableau.com/app/profile/tyler.chinn)
+ * My public profile for Tableau data analytics projects
 ## 
