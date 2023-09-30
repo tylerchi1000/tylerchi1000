@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Tyler</h1>
 <h3 align="center"></h3>
 
-### I enjoy learning new tools and skills to implement, and would love to collaborate on interesting projects.
+### I enjoy learning new tools and skills to implement, and would love to collaborate on interesting projects or online data science competitions.
 ### Feel free to send me a message.
 ### 📫 How to reach me: tyler.chinn2@gmail.com
 
