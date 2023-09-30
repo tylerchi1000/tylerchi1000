@@ -5,6 +5,7 @@
 ### Feel free to send me a message.
 ### 📫 How to reach me: tyler.chinn2@gmail.com
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tyler-chinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tyler-chinn" height="30" width="40" /></a>
