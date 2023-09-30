@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tyler</h1>
-<h3 align="center">A passionate data analyst in Seattle</h3>
+<h1 align="center">Hello there, I'm Tyler</h1>
+<h3 align="center"></h3>
+
+### I enjoy learning new tools and skills to implement, and would love to collaborate on interesting projects.
+### Feel free to send me a message.
+### 📫 How to reach me: tyler.chinn2@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
